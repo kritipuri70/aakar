@@ -13,6 +13,9 @@ Aakar connects Nepal with the Nepali diaspora on one verified platform. Investor
 - **Notifications:** saved in the database by triggers, plus message notifications calculated in the app.
 - **Time zones:** session times are entered in Nepal time (NPT) and shown in each viewer's own time.
 
+## Live Demo
+https://kritipuri70.github.io/aakar/
+
 ## Tech stack
 
 React, Vite, React Router, Supabase (Postgres, Auth, Realtime, Storage) and Vitest.
